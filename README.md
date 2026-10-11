@@ -284,6 +284,10 @@ IEEE RA-L, 2023. [[Paper]](https://arxiv.org/pdf/2304.10773.pdf) [[Code]](https:
 *Kumar Ashutosh, Georgios Pavlakos, Kristen Grauman* <br>
 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11093399) [[Website]](https://ieeexplore.ieee.org/document/11093399)
 
+### 2026-10-10
+* **SemanticAudio-VisualNavigationinContinuousEnvironments** <br>
+*YichenZeng,HebaixuWang,MengLiu,YuZhou,ChenGao,KehanChen,GongpingHuang* <br>
+2025 CVPR. [[Paper]]https://arxiv.org/pdf/2603.19660) [[Code]](https://github.com/yichenzeng24/SAVN-CE) [[Website]](https://arxiv.org/abs/2603.19660)
 
 
 
