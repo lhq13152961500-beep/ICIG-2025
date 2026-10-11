@@ -279,6 +279,11 @@ AAAI, 2026. [[Paper]](https://github.com/felixfjg/NaVLA/blob/main/assets/paper.p
 *Hongcheng Wang, Yuxuan Wang, Fangwei Zhong, Mingdong Wu, Jianwei Zhang, Yizhou Wang, Hao Dong* <br>
 IEEE RA-L, 2023. [[Paper]](https://arxiv.org/pdf/2304.10773.pdf) [[Code]](https://github.com/wwwwwyyyyyxxxxx/SA2GVAN) [[Website]](https://sites.google.com/view/sasavan/)
 
+### 2026-10-4
+* **OctoNav: TowardsGeneralist Embodied Navigation** <br>
+*Chen Gao,Liankai Jin,Xingyu Peng,Jiazhao Zhang* <br>
+2025 CVPR. [[Paper]](https://arxiv.org/abs/2506.09839)[[Website]](https://arxiv.org/abs/2506.09839)
+  
 ### 2026-10-8
 * **FICTION: 4D Future Interaction Prediction from Video** <br>
 *Kumar Ashutosh, Georgios Pavlakos, Kristen Grauman* <br>
