@@ -279,6 +279,11 @@ AAAI, 2026. [[Paper]](https://github.com/felixfjg/NaVLA/blob/main/assets/paper.p
 *Hongcheng Wang, Yuxuan Wang, Fangwei Zhong, Mingdong Wu, Jianwei Zhang, Yizhou Wang, Hao Dong* <br>
 IEEE RA-L, 2023. [[Paper]](https://arxiv.org/pdf/2304.10773.pdf) [[Code]](https://github.com/wwwwwyyyyyxxxxx/SA2GVAN) [[Website]](https://sites.google.com/view/sasavan/)
 
+### 2026-10-8
+* **FICTION: 4D Future Interaction Prediction from Video** <br>
+*Kumar Ashutosh, Georgios Pavlakos, Kristen Grauman* <br>
+2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11093399) [[Website]](https://ieeexplore.ieee.org/document/11093399)
+
 
 
 
