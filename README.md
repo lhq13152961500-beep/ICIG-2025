@@ -76,6 +76,16 @@ ICML, 2026. [[Paper]](https://proceedings.mlr.press/v306/ji26k.html) [[Code]](ht
 *Quanxin Shou, Fangqi Zhu, Shuang Chen, Puxin Yan, Zhengyang Yan, Yikun Miao, Xiaoyi Pang, Zicong Hong, Ruikai Shi, Hao Huang, Jie Zhang, Song Guo* <br>
 ICML, 2026. [[Paper]](https://proceedings.mlr.press/v306/shou26a.html) [[Code]](https://github.com/qshou-coder/HALO) [[Website]](https://qshou-coder.github.io/HALO/)
 
+### 2026-10-3
+#### * **Toward Causal Representation Learning** <br>
+*Bernhard Schölkopf, Francesco Locatello, Stefan Bauer, Nan Rosemary Ke, Nal Kalchbrenner, Anirudh Goyal, Yoshua Bengio* <br>
+Proceedings of the IEEE, 2021. [[Paper]](https://ieeexplore.ieee.org/document/9363924)
+
+### 2026-10-8
+#### * **Vision-and-Language Navigation via Causal Learning** <br>
+*Liuyi Wang, Zongtao He, Ronghao Dang, Mengjiao Shen, Chengju Liu, Qijun Chen* <br>
+CVPR, 2024. [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_Vision-and-Language_Navigation_via_Causal_Learning_CVPR_2024_paper.html) [[Code]](https://github.com/CrystalSixone/VLN-GOAT) [[Website]](https://rail-vln.github.io/)
+
 
 ## duyunbo
 
