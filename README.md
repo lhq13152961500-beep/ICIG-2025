@@ -86,6 +86,15 @@ Proceedings of the IEEE, 2021. [[Paper]](https://ieeexplore.ieee.org/document/93
 *Liuyi Wang, Zongtao He, Ronghao Dang, Mengjiao Shen, Chengju Liu, Qijun Chen* <br>
 CVPR, 2024. [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_Vision-and-Language_Navigation_via_Causal_Learning_CVPR_2024_paper.html) [[Code]](https://github.com/CrystalSixone/VLN-GOAT) [[Website]](https://rail-vln.github.io/)
 
+### 2026-10-10 
+#### * **Causality-based Cross-Modal Representation Learning for Vision-and-Language Navigation** <br>
+*Liuyi Wang, Zongtao He, Ronghao Dang, Huiyi Chen, Chengju Liu, Qijun Chen* <br>
+arXiv, 2024. [[Paper]](https://arxiv.org/abs/2403.03405)
+
+### 2026-10-11
+#### * **Counterfactual Cycle-Consistent Learning for Instruction Following and Generation in Vision-Language Navigation** <br>
+*Hanqing Wang, Wei Liang, Jianbing Shen, Luc Van Gool, Wenguan Wang* <br>
+CVPR, 2022. [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_Counterfactual_Cycle-Consistent_Learning_for_Instruction_Following_and_Generation_in_Vision-Language_CVPR_2022_paper.html) [[Code]](https://github.com/HanqingWangAI/CCC-VLN)
 
 ## duyunbo
 
