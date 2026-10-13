@@ -288,8 +288,7 @@ ICCV 2025 [[paper]](https://arxiv.org/pdf/2507.04667)[[Code]](https://huggingfac
 BMVC, 2022. [[Paper]](https://arxiv.org/pdf/2210.01353.pdf) [[Code]](https://github.com/yyf17/FSAAVN) [[Website]](https://yyf17.github.io/FSAAVN/)
 
 ### 2026-9-22
-* **NaVLA2: AVision-Language-Audio-Action Model for Multimodal Instruction
-Navigation** <br>
+* **NaVLA2: AVision-Language-Audio-Action Model for Multimodal Instruction Navigation** <br>
 *Jugang Fan, Peihao Chen, Changhao Li, Qing Du, Jian Chen, Mingkui Tan* <br>
 AAAI, 2026. [[Paper]](https://github.com/felixfjg/NaVLA/blob/main/assets/paper.pdf) [[Website]](https://github.com/felixfjg/NaVLA) [[PPT]](https://github.com/yyf17/ICIG-2025/blame/main/wangbo/NaVLA%C2%B2.pptx)
 
@@ -312,6 +311,9 @@ IEEE RA-L, 2023. [[Paper]](https://arxiv.org/pdf/2304.10773.pdf) [[Code]](https:
 * **SemanticAudio-VisualNavigationinContinuousEnvironments** <br>
 *YichenZeng,HebaixuWang,MengLiu,YuZhou,ChenGao,KehanChen,GongpingHuang* <br>
 2026 CVPR. [[Paper]]https://arxiv.org/pdf/2603.19660) [[Code]](https://github.com/yichenzeng24/SAVN-CE) [[Website]](https://arxiv.org/abs/2603.19660)
-
+### 2026-10-13
+* **HieraMamba: Video Temporal Grounding via Hierarchical Anchor-Mamba Pooling** <br>
+*Joungbin An, Kristen Grauman* <br>
+2026 CVPR. [[Paper]](https://arxiv.org/abs/2510.23043) [[Code]](https://github.com/jbistanbul/hieramamba) [[Website]](https://arxiv.org/abs/2510.23043)
 
 
