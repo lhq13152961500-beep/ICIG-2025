@@ -310,7 +310,7 @@ IEEE RA-L, 2023. [[Paper]](https://arxiv.org/pdf/2304.10773.pdf) [[Code]](https:
 ### 2026-10-10
 * **SemanticAudio-VisualNavigationinContinuousEnvironments** <br>
 *YichenZeng,HebaixuWang,MengLiu,YuZhou,ChenGao,KehanChen,GongpingHuang* <br>
-2026 CVPR. [[Paper]]https://arxiv.org/pdf/2603.19660) [[Code]](https://github.com/yichenzeng24/SAVN-CE) [[Website]](https://arxiv.org/abs/2603.19660)
+2026 CVPR. [[Paper]](https://arxiv.org/pdf/2603.19660) [[Code]](https://github.com/yichenzeng24/SAVN-CE) [[Website]](https://arxiv.org/abs/2603.19660)
 ### 2026-10-13
 * **HieraMamba: Video Temporal Grounding via Hierarchical Anchor-Mamba Pooling** <br>
 *Joungbin An, Kristen Grauman* <br>
