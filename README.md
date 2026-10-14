@@ -96,6 +96,12 @@ arXiv, 2024. [[Paper]](https://arxiv.org/abs/2403.03405)
 *Hanqing Wang, Wei Liang, Jianbing Shen, Luc Van Gool, Wenguan Wang* <br>
 CVPR, 2022. [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_Counterfactual_Cycle-Consistent_Learning_for_Instruction_Following_and_Generation_in_Vision-Language_CVPR_2022_paper.html) [[Code]](https://github.com/HanqingWangAI/CCC-VLN)
 
+### 2026-10-14
+#### * **MapNav: A Novel Memory Representation via Annotated Semantic Maps for VLM-based Vision-and-Language Navigation** <br>
+*Lingfeng Zhang, Xiaoshuai Hao, Qinwen Xu, Qiang Zhang, Xinyao Zhang, Pengwei Wang, Jing Zhang, Zhongyuan Wang, Shanghang Zhang, Renjing Xu* <br>
+ACL, 2025. [[Paper]](https://aclanthology.org/2025.acl-long.638.pdf) [[Code]](https://github.com/linglingxiansen/MapNav) [[Website]](https://aclanthology.org/2025.acl-long.638/)
+
+
 ## duyunbo
 
 * **Semantic Audio-Visual Navigation in Continuous Environments** <br>
