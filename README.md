@@ -101,6 +101,8 @@ CVPR, 2022. [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_C
 *Lingfeng Zhang, Xiaoshuai Hao, Qinwen Xu, Qiang Zhang, Xinyao Zhang, Pengwei Wang, Jing Zhang, Zhongyuan Wang, Shanghang Zhang, Renjing Xu* <br>
 ACL, 2025. [[Paper]](https://aclanthology.org/2025.acl-long.638.pdf) [[Code]](https://github.com/linglingxiansen/MapNav) [[Website]](https://aclanthology.org/2025.acl-long.638/)
 
+#### [ppt](wanghaonan/2026-10-14王浩南.pptx)
+
 
 ## duyunbo
 
