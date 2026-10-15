@@ -195,6 +195,30 @@ ICLR, 2026. [[Paper]](https://proceedings.iclr.cc/paper_files/paper/2026/file/ce
 CVPR, 2024. [[Paper]](https://doi.org/10.1109/CVPR52733.2024.01538)
 #### 2026-9-30范艺博.pptx [ppt](fanyibo/2026-9-30范艺博.pptx)
 
+# 2026-10-03
+#### * **Audio-Guided Dynamic Modality Fusion with Stereo-Aware Attention for Audio-Visual Navigation**   
+*Jia Li, Ziyi Wang, Yuhan Zhang*   
+arXiv, 2025. [[Paper]](https://arxiv.org/abs/2509.16924) [[Code]](https://github.com/jiali-avln/Stereo-Aware-AVLN)
+
+# 2026-10-08
+#### * **Generalizable Audio-Visual Navigation via Binaural Difference Attention and Action Transition Prediction**   
+*Jia Li, Ziyi Wang*   
+arXiv, 2026. [[Paper]](https://arxiv.org/abs/2604.05007) [[Code]](https://github.com/jiali-avln/BDA-AVLN)
+
+# 2026-10-10
+#### * **Residual Cross-Modal Fusion Networks for Audio-Visual Navigation**   
+*Xinzhe Wang, Jia Li*   
+arXiv, 2026. [[Paper]](https://arxiv.org/abs/2601.08868) [[Code]](https://github.com/jiali-avln/ResCMF-AVLN)
+
+# 2026-10-11
+#### * **Semantic Audio-Visual Navigation in Continuous Environments**   
+*Yichen Zeng, Hebaixu Wang, Meng Liu, Yu Zhou, Kehan Chen, Chen Gao, Gongping Huang*   
+CVPR, 2026. [[Paper]](https://openaccess.thecvf.com/content/CVPR2026/html/Zeng_Semantic_Audio-Visual_Navigation_in_Continuous_Environments_CVPR_2026_paper.html) [[Code]](https://github.com/ZengYichen/Semantic-AVLN-Continuous)
+
+# 2026-10-14
+#### * **LH-AVLN: A Benchmark for Long-Horizon Audio-Visual-Language Navigation**   
+*Tianhang Wang, Yichen Zeng, Meng Liu, Yu Zhou, Chen Gao, Gongping Huang*   
+arXiv, 2026. [[Paper]](https://arxiv.org/abs/2607.03920) [[Code]](https://github.com/ZengYichen/LH-AVLN)
 
 
 ## fanzhenglei
